@@ -1,5 +1,10 @@
-data/
-*.csv
-*.db
 venv/
 __pycache__/
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+
+*.csv
+*.db
+*.sqlite3
