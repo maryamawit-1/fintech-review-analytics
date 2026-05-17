@@ -14,7 +14,7 @@ The cleaned dataset produced in Task 1 will later be used for sentiment analysis
 
 ---
 
-# Task 1 — Data Collection and Preprocessing
+# Task 1  Data Collection and Preprocessing
 
 ## Objective
 
